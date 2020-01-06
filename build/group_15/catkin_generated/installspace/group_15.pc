@@ -1,0 +1,8 @@
+prefix=/home/swastik/catkin_ws2/install
+
+Name: group_15
+Description: Description of group_15
+Version: 0.0.0
+Cflags: -I/home/swastik/catkin_ws2/install/include
+Libs: -L/home/swastik/catkin_ws2/install/lib 
+Requires: 

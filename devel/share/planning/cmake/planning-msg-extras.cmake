@@ -1,0 +1,2 @@
+set(planning_MESSAGE_FILES "")
+set(planning_SERVICE_FILES "/home/swastik/catkin_ws2/src/planning/srv/GetSuccessor.srv;/home/swastik/catkin_ws2/src/planning/srv/GetInitialState.srv;/home/swastik/catkin_ws2/src/planning/srv/IsGoalState.srv;/home/swastik/catkin_ws2/src/planning/srv/GetGoalState.srv;/home/swastik/catkin_ws2/src/planning/srv/PlaceActionMsg.srv;/home/swastik/catkin_ws2/src/planning/srv/PickActionMsg.srv;/home/swastik/catkin_ws2/src/planning/srv/RemoveBlockedEdgeMsg.srv;/home/swastik/catkin_ws2/src/planning/srv/MoveActionMsg.srv")

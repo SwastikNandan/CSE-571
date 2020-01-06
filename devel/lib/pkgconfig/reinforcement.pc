@@ -1,0 +1,8 @@
+prefix=/home/swastik/catkin_ws2/devel
+
+Name: reinforcement
+Description: Description of reinforcement
+Version: 0.0.0
+Cflags: -I/home/swastik/catkin_ws2/devel/include
+Libs: -L/home/swastik/catkin_ws2/devel/lib 
+Requires: 

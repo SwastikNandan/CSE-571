@@ -1,0 +1,8 @@
+prefix=/home/swastik/catkin_ws2/devel
+
+Name: turtlebot3_navigation
+Description: Description of turtlebot3_navigation
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/swastik/catkin_ws2/devel/lib 
+Requires: 
